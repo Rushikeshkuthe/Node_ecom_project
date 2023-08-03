@@ -1,0 +1,48 @@
+[
+    {
+        "name":"iphone",
+        "price":46000,
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone13",
+        "price":56000,
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"watch",
+        "price":13000,
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"watch10",
+        "price":14000,
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"s22",
+        "price":158000,
+        "company":"samsung"
+    },
+
+    {
+        "name":"dell gamming",
+        "price":78000,
+        "company":"dell"
+    }, 
+
+    {
+        "name":"mi20",
+        "price":12000,
+        "company":"mi"
+    }
+
+]
